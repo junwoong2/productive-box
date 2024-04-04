@@ -11,13 +11,6 @@
    <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
    <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
 </p>
-<p align="center">
-   I'm an early 🦉?
-   <br/>
-   When are you most productive during the day?
-   <br/>
-   Let's check out in gist!
-</p>
 
 ---
 
