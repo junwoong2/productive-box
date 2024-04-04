@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
 </p>
 <p align="center">
-   I'm night 🦉?
+   I'm an early 🦉?
    <br/>
    When are you most productive during the day?
    <br/>
